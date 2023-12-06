@@ -1,1 +1,1 @@
-# Sql_projekti
+## Repository of my sql projects
